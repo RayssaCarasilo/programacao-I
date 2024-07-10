@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
-#include "Chamada.hpp"
-#include "classFunc.hpp"
+#include "chamada.hpp"
+#include "classF.hpp"
 
 
 Chamada::Chamada(int _dtaEmprestimo[3], int _idLivro, int _idUsuario){

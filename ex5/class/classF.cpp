@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "classFunc.hpp"
+#include "classF.hpp"
 
 using namespace std;
 

@@ -1,10 +1,10 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include "Chamada.hpp"
-#include "Livro.hpp"
-#include "Usuario.hpp"
-#include "classFunc.hpp"
+#include "chamada.hpp"
+#include "livro.hpp"
+#include "usuario.hpp"
+#include "classF.hpp"
 
 using namespace std;
 

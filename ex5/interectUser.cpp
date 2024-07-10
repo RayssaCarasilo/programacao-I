@@ -1,11 +1,11 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include "classes/Admin.hpp"
-#include "classes/Usuario.hpp"
-#include "classes/Livro.hpp"
-#include "classes/Chamada.hpp"
-#include "classes/classFunc.hpp"
+#include "class/admin.hpp"
+#include "class/usuario.hpp"
+#include "class/livro.hpp"
+#include "class/chamada.hpp"
+#include "class/classF.hpp"
 
 using namespace std;
 
